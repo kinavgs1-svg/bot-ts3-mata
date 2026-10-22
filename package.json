@@ -1,0 +1,8 @@
+{
+  "name": "bot-ts3-mata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ts3-nodejs-library": "^3.3.0"
+  }
+}
