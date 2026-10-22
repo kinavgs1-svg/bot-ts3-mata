@@ -23,7 +23,7 @@ client.on('message', async msg => {
 
 No momento não estou disponível, mas assim que der irei te responder, tá bom?
 
-Obrigado pela compreensão! 🙏`;
+Obrigado pela compreensão! 🙏`;            Mix TemdTudo 
 
     await client.sendMessage(msg.from, frase);
 });
