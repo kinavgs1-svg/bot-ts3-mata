@@ -1,8 +1,7 @@
 {
-  "name": "bot-ts3-mata",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "bot-ausente",
   "dependencies": {
-    "ts3-nodejs-library": "^3.3.0"
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
